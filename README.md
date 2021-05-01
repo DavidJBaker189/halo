@@ -1,6 +1,6 @@
-<h1> HALO MASTER CHIEF COLLECTION  </h1>
+<h2> HALO MASTER CHIEF COLLECTION  </h2>
 
---Multi Cheat Tool--
+</h3> --Multi Cheat Tool-- </h3>
 
 Features:
 *No clip
